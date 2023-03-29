@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #dedede;
+}
+
+.page {
+  margin: 40px 150px;
+  background-color: white;
+  height: max-content;
+}
+
+.content {
+  padding: 15px;
+}
+
+label {
+  font-size: 100px;
+}
+
+/*# sourceMappingURL=App.css.map */
